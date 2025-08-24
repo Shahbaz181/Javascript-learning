@@ -17,7 +17,7 @@ y=undefined;
 console.log(x);
 console.log(y);
 
-
+// boolean
 isFollow = true;
 console.log(isFollow);
 
@@ -27,15 +27,15 @@ console.log(isunFollow);
 age=52;
 console.log(fullname,age,Profession);
 
-
+//let
 let myname= ("What are you doing");
 console.log(myname);
 
-
+//var
 var my=("Syed Shahbaz");
 console.log(my);
 
-
+//Constant
 const Age = 20;
 console.log(Age);
 
