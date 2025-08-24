@@ -1,7 +1,7 @@
 # 🚀 JavaScript Learning Challenge
 
 I have started my **JavaScript Learning Journey** on **23rd August 2025**.  
-Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn**  and update this repository with examples.  
+Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn**  and update this repository.  
 
 ---
 
@@ -16,7 +16,16 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 - Special Notes (`typeof null`, const initialization, emoji in strings)  
 
 ---
-
+### ✅ Day 2 (23-08-2025)   
+- Non-Primitive Data Type → Objects (create, access, update)  
+- Arithmetic Operators (+, -, *, /, %, **)  
+- Unary Operators (Increment ++, Decrement -- → pre & post)  
+- Assignment Operators (=, +=, -=, *=, /=, %=, **=)
+  
+📘 Practice Sets  
+- Practice Set 1 (Day 2 topics)  
+- Practice Set 2 (Day 2 topics) 
+---
 
 ## 📌 Notes  
 - I will **update this README daily** with the topics I’ve covered.  
