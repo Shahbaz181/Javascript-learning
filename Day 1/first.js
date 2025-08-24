@@ -28,8 +28,6 @@ age=52;
 console.log(fullname,age,Profession);
 
 
-// #let, const & var
-
 let myname= ("What are you doing");
 console.log(myname);
 
