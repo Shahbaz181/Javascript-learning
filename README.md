@@ -1,7 +1,7 @@
 # 🚀 JavaScript Learning Challenge
 
-I have started my **JavaScript Learning Journey** on **23rd August 2025**.  
-Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn**  and update this repository.  
+I started my **JavaScript Learning Journey** on **23rd August 2025**.  
+Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn** and update this repository.  
 
 ---
 
@@ -16,21 +16,45 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 - Special Notes (`typeof null`, const initialization, emoji in strings)  
 
 ---
-### ✅ Day 2 (23-08-2025)   
-- Non-Primitive Data Type → Objects (create, access, update)  
-- Arithmetic Operators (+, -, *, /, %, **)  
-- Unary Operators (Increment ++, Decrement -- → pre & post)  
-- Assignment Operators (=, +=, -=, *=, /=, %=, **=)
-  
-📘 Practice Sets  
+
+### ✅ Day 2 (24-08-2025)  
+- Non-Primitive Data Type → **Objects** (create, access, update)  
+- Arithmetic Operators (`+`, `-`, `*`, `/`, `%`, `**`)  
+- Unary Operators (Increment `++`, Decrement `--` → pre & post)  
+- Assignment Operators (`=`, `+=`, `-=`, `*=`, `/=`, `%=`, `**=`)  
+
+📘 **Practice Sets**  
 - Practice Set 1 (Day 2 topics)  
-- Practice Set 2 (Day 2 topics) 
+- Practice Set 2 (Day 2 topics)  
+
+---
+
+### ✅ Day 3 (25-08-2025)  
+
+#### 📌 Topics Covered  
+1. **Comparison Operators** → `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`  
+2. **Logical Operators** → `&&`, `||`, `!`  
+3. **Conditional Statements** → `if`, `if-else`, `else-if`  
+4. **Practice Problems:**  
+   - Check Voting Eligibility  
+   - Light/Dark Mode Background  
+   - Even or Odd Number Check  
+   - Divisible by 5 and 11  
+   - College Year Checker  
+   - Traffic Light System 🚦  
+
+#### ✅ Summary (Day 3)  
+- Learned how to compare values using `==` vs `===`.  
+- Practiced logical operators (`&&`, `||`, `!`).  
+- Wrote multiple conditional programs (`if-else`).  
+- Solved mini coding challenges to strengthen logical thinking.  
+
 ---
 
 ## 📌 Notes  
-- I will **update this README daily** with the topics I’ve covered.  
+- I will **update this README daily** with new topics.  
 - Example codes for each day are available in this repo.  
-- Daily posts will also be shared on [LinkedIn](https://www.linkedin.com/in/syedshahbaz181/).  
+- Daily updates will also be shared on [LinkedIn](https://www.linkedin.com/in/syedshahbaz181/).  
 
 ---
 
@@ -39,4 +63,4 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 
 ---
 
-⭐ Stay tuned for my daily updates!  
+⭐ Stay tuned for my daily progress updates!  
