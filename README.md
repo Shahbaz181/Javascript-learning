@@ -1,5 +1,4 @@
-Got it 👍 I’ll add your **GitHub link** inside every **Day heading** so people can directly check your code files.
-Here’s the updated **README** 👇
+Perfect 👍 Here’s your updated **README with Day 5 added** 👇
 
 ---
 
@@ -93,6 +92,34 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 
 ---
 
+### ✅ Day 5 (28-08-2025)
+
+🔗 [Day 5 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%205)
+
+#### 📌 Topics Covered
+
+1. **Strings in JavaScript**
+
+   * Declaring strings (`""`, `''`, \`\`\`\`)
+   * Escape characters (`\n`, `\t`, `\"`, `\\`)
+   * Template Literals (`Hello ${name}`)
+
+2. **String Methods**
+
+   * `length`, `toUpperCase()`, `toLowerCase()`
+   * `trim()`, `slice(start, end)`
+   * `replace()`, `replaceAll()`
+   * `concat()`, `includes()`, `startsWith()`, `endsWith()`
+   * `charAt()`, `charCodeAt()`
+
+#### ✅ Summary (Day 5)
+
+* Learned different ways to declare strings.
+* Practiced important **string methods** for manipulation.
+* Got comfortable using **template literals** for clean code.
+
+---
+
 ## 📌 Notes
 
 * I will **update this README daily** with new topics.
@@ -107,4 +134,6 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 
 ---
 
-⭐ Stay tuned for my daily progress updates!  
+⭐ Stay tuned for my daily progress updates!
+
+---
