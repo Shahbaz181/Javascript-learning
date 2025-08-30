@@ -1,7 +1,3 @@
-Got it 👍 I’ll extend your **README** with **Day 6 (Arrays & Methods)** added, keeping the same format and style:
-
----
-
 # 🚀 JavaScript Learning Challenge
 
 I started my **JavaScript Learning Journey** on **23rd August 2025**.
@@ -174,5 +170,3 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 ⭐ Stay tuned for my daily progress updates!
 
 ---
-
-Do you also want me to prepare the **LinkedIn post for Day 6** in both **detailed** and **short scroll-friendly** versions (like Day 5)?
