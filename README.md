@@ -1,7 +1,3 @@
-Perfect 👍 Here’s your updated **README with Day 5 added** 👇
-
----
-
 # 🚀 JavaScript Learning Challenge
 
 I started my **JavaScript Learning Journey** on **23rd August 2025**.
@@ -100,10 +96,9 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 
 1. **Strings in JavaScript**
 
-   * Declaring strings (`""`, `''`, \`\`\`\`)
+   * Declaring strings (`""`, `''`, \`\`\`\`\`\`)
    * Escape characters (`\n`, `\t`, `\"`, `\\`)
    * Template Literals (`Hello ${name}`)
-
 2. **String Methods**
 
    * `length`, `toUpperCase()`, `toLowerCase()`
@@ -117,6 +112,44 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Learned different ways to declare strings.
 * Practiced important **string methods** for manipulation.
 * Got comfortable using **template literals** for clean code.
+
+---
+
+### ✅ Day 6 (30-08-2025)
+
+🔗 [Day 6 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%206)
+
+#### 📌 Topics Covered
+
+1. **Arrays Basics**
+
+   * Creating arrays
+   * Array indices (access, update values)
+   * `.length` property
+
+2. **Looping over Arrays**
+
+   * `for` loop → index-based iteration
+   * `for-of` loop → iterate elements (strings/arrays)
+   * `for-in` loop → iterate keys/indices
+
+3. **Array Methods**
+
+   * `push()` → add element at end
+   * `pop()` → remove last element
+   * `toString()` → convert to string
+   * `concat()` → merge arrays
+   * `unshift()` → add element at start
+   * `shift()` → remove first element
+   * `slice(start, end)` → extract subarray
+   * `splice()` → add, remove, replace elements
+
+#### ✅ Summary (Day 6)
+
+* Learned how to **create and update arrays**.
+* Practiced different **looping techniques** (`for`, `for-of`, `for-in`).
+* Explored powerful **array methods** for adding, removing & replacing elements.
+* Strengthened logic with examples like **fruits, cities, heroes, mobile brands**.
 
 ---
 
