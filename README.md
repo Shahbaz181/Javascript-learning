@@ -151,6 +151,36 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Explored powerful **array methods** for adding, removing & replacing elements.
 * Strengthened logic with examples like **fruits, cities, heroes, mobile brands**.
 
+
+### ✅ Day 7 (02-09-2025)
+
+🔗 [Day 7 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%207)
+
+#### 📌 Topics Covered
+
+1. **Functions in JavaScript**
+
+   * Function Declaration (`function myFunc() {}`)
+   * Function Expression (`const myFunc = function() {}`)
+   * Arrow Functions (`const myFunc = () => {}`)
+   * Parameters & Arguments
+   * Default Parameters
+   * Return Statement
+
+2. **Function Practice Problems**
+
+   * Function to calculate sum of 2 numbers
+   * Function to calculate factorial of a number
+   * Function to check if a string is palindrome
+   * Function to reverse a string
+   * Function to count vowels in a string
+
+#### ✅ Summary (Day 7)
+
+* Learned different ways to **declare functions**.
+* Understood **parameters, arguments, and return values**.
+* Practiced **arrow functions** for cleaner syntax.
+* Solved mini function-based problems to build logic.
 ---
 
 ## 📌 Notes
