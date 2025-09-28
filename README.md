@@ -3,7 +3,7 @@
 I started my **JavaScript Learning Journey** on **23rd August 2025**.
 Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn** and update this repository.
 
----
+--- 
 
 ## 📅 Daily Progress
 
