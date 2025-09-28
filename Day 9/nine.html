@@ -7,9 +7,33 @@
     <link rel="stylesheet" href="nine.css">
 </head>
 <body>
-
     <h1 id="header">Day 9 Learning of Events </h1>
-    
+
+<!-- Inline event handling  -->
+    <p>Inline Event Handling</p>
+    <button onclick="console.log('button was clicked');alert('This is dangerous to your browser')">click me!</button>
+
+    <br>
+
+    <button ondblclick="console.log('button was clicked 2x times');alert('the button was clicked 2x times');">Double click</button>
+
+    <br>
+    <div  onmouseover="console.log('You are in a div')";>MOUSEOVER EVENT</div>
+    <hr> 
+<!-- IN JS File Event Handling -->
+    <p>IN JS File Event Handling</p> 
+
+    <button id="btn">btn</button>
+
+    <br>
+
+    <div class="box1">This is a box</div>
+    <button id="bth2">Event Object</button>
+    <button id="bth3">Event Listener</button>
+    <button id="bth4">Remove EventListener</button>
+
+
+
+    <script src="nine.js"></script>
 </body>
-<script src="nine.js"></script>
 </html>

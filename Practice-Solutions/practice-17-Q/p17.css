@@ -1,0 +1,16 @@
+.btn-container {
+    display: flex;
+    justify-content: center; /* center horizontally */
+    margin-top: 80px;        /* add some space below heading */
+}
+
+#mode {
+    height: 50px;
+    width: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    background-color: chartreuse;
+    border-radius: 25px;
+    border: 2px solid #eee;
+    cursor: pointer;
+}
