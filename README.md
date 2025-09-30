@@ -3,7 +3,7 @@
 I started my **JavaScript Learning Journey** on **23rd August 2025**.
 Every day, I will learn new topics in JavaScript and post my progress on **LinkedIn** and update this repository.
 
----
+--- 
 
 ## 📅 Daily Progress
 
@@ -182,57 +182,43 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Practiced **arrow functions** for cleaner syntax.
 * Solved mini function-based problems to build logic.
 
-# 🚀 Day 8 – (05-09-2025) DOM Manipulation  
-
-In Day 8, I explored **DOM (Document Object Model) Manipulation** in JavaScript.  
-The DOM represents a webpage as a tree of objects, allowing us to access, modify, and update elements dynamically.  
+### ✅ Day 8 (05-09-2025)
 
 🔗 [Day 8 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%208)
 
----
+#### 📌 Topics Covered
+1. Selecting Elements → `getElementById`, `getElementsByClassName`, `getElementsByTagName`  
+2. Query Selectors → `querySelector`, `querySelectorAll`  
+3. Properties → `.tagName`, `.innerText`, `.textContent`, `.innerHTML`  
+4. DOM Navigation → `.children`, `.firstChild`, `.lastChild`  
 
-## 📂 Files Created  
-- **eight.html** → Webpage for DOM demo  
-- **eight.css** → Styling (colors, layout, alignment)  
-- **eight.js** → JavaScript for DOM manipulation practice  
+#### ✅ Summary
+* Learned element selection methods  
+* Practiced properties (`innerText`, `innerHTML`, etc.)  
+* Explored DOM tree navigation  
+* Understood `console.log` vs `console.dir`
 
----
-
-## 📌 Topics Learned  
-
-### 1️⃣ Selecting Elements  
-- `getElementById("id")` → select element by ID  
-- `getElementsByClassName("class")` → select all elements with a class  
-- `getElementsByTagName("tag")` → select elements by tag name  
-
-### 2️⃣ Query Selectors  
-- `querySelector("tag/.class/#id")` → first match  
-- `querySelectorAll("tag/.class/#id")` → all matches  
-
-### 3️⃣ Properties  
-- `.tagName` → get element’s tag name  
-- `.innerText` → text visible to user  
-- `.textContent` → all text (even hidden)  
-- `.innerHTML` → HTML code inside element  
-
-### 4️⃣ DOM Navigation  
-- `.children` → child elements  
-- `.firstChild` → first child node  
-- `.lastChild` → last child node  
+💡 **Takeaway:** DOM manipulation is the foundation for making interactive web pages. With these basics, I can now dynamically update content, styles, and handle events in JavaScript
 
 ---
 
-## ✅ Summary (Day 8)  
-✔ Learned how to **select, inspect, and access** HTML elements  
-✔ Practiced **innerText, innerHTML, textContent**  
-✔ Explored **DOM tree navigation** with children, firstChild, lastChild  
-✔ Understood difference between **console.log** and **console.dir**  
+### ✅ Day 9 (28-09-2025)
 
----
+🔗 [Day 9 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%209)
 
-💡 **Takeaway:** DOM manipulation is the foundation for making interactive web pages. With these basics, I can now dynamically update content, styles, and handle events in JavaScript.  
+#### 📌 Topics Covered
+1. **Inline Events** → `onclick`, `ondblclick`, `onmouseover`  
+2. **JS File Events** → `element.onclick = () => {}`  
+3. **Event Object** → `evt.type`, `evt.target`, `evt.clientX`, `evt.clientY`  
+4. **Event Listeners** → `addEventListener("click", fn)`  
+5. **Remove Listener** → `removeEventListener("click", fn)`  
 
----   
+#### ✅ Summary
+* Learned inline & external event handling.  
+* Explored **event object** for details.  
+* Practiced adding/removing **event listeners**.  
+
+---  
 
 ## 📌 Notes
 
