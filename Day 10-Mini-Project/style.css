@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #E4D9FF;
+    text-align: center;
+}
+
+h1{
+    margin-top: 8vmin;
+}
+
+.container{
+    height: 70vh; /* fixed typo hv -> vh */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vmin;
+}
+
+.game{
+    height: 60vmin;
+    width : 60vmin;    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;  
+    border-radius: 15px;
+    padding: 3vmin;
+    background-color: #FAFAFF;
+}
+
+.box{
+    height: 17vmin;
+    width: 16vmin;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    font-size: 5vmin;
+    background-color: #273469;
+    color: #FAFAFF;
+    transition: all 0.2s ease-in-out;
+}
+
+#reset-btn, #new-btn{
+    margin-top: 3vmin;
+    padding: 1.5vmin;
+    font-size: 2vmin;
+    background-color: #FAFAFF;
+    color: #30343F;
+    border: .25vmin solid #1E2749;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-bottom: 5rem;
+}
+
+#reset-btn:hover, #new-btn:hover{
+    background-color: #273469;
+    color: #FAFAFF;
+}
+
+#msg{
+    font-size: 4vmin;
+    color: #30343F;
+}
+
+.msg-container{
+    height: 110vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3rem;
+    animation: fadeIn 0.6s ease;
+}
+
+.hide{
+    display: none;
+}
+
+/* ===== Animations ===== */
+@keyframes pop {
+    0% { transform: scale(0.6); opacity: 0.5; }
+    60% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); }
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+}
+
+/* ===== Mobile Responsive Layout ===== */
+@media (max-width: 600px) {
+    .game {
+        height: 80vmin;
+        width: 80vmin;
+        gap: 2vmin;
+    }
+
+    .box {
+        height: 22vmin;
+        width: 22vmin;
+        font-size: 8vmin;
+    }
+    .msg-container {
+        height: 170vmin;
+    }
+
+    h1 {
+        font-size: 8vmin;
+    }
+
+    #msg {
+        font-size: 6vmin;
+    }
+
+    #reset-btn, #new-btn {
+        font-size: 4vmin;
+        padding: 2vmin 4vmin;
+        border: .5vmin solid #1E2749;
+        margin-bottom: 5rem;
+    }
+}
