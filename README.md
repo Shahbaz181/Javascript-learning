@@ -241,7 +241,29 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Strengthened logic-building through game development  
 
 ---  
+### ✅ Day 11 (02-10-2025)
 
+🔗 [Day 11 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%2011-Mini-Project)
+
+#### 📌 Topics Covered
+1. Built a **Rock Paper Scissors Game** using HTML, CSS & JavaScript  
+2. Created **interactive buttons** for Rock, Paper, and Scissors  
+3. Implemented **computer choice logic** using `Math.random()`  
+4. Added **Win / Lose / Draw conditions** with dynamic messages  
+5. Tracked **scores** for User and Computer  
+6. Styled the UI with **background effects** and hover interactions  
+7. Applied **responsive design** using media queries for mobile, tablet, and desktop  
+
+#### ✅ Summary
+* Learned to handle **user events** with `addEventListener`  
+* Practiced **DOM manipulation** to update scores and messages dynamically  
+* Applied **conditional logic** to determine game outcomes  
+* Explored **responsive UI design** for different devices  
+* Created a fully **playable mini-game** 🎮  
+
+💡 **Takeaway:** Day 11 helped me strengthen my understanding of **interactive DOM manipulation, event handling, and responsive web design**, making the learning experience fun and practical.
+
+---
 ## 📌 Notes
 
 * I will **update this README daily** with new topics.
