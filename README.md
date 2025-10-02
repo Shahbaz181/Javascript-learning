@@ -151,6 +151,7 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Explored powerful **array methods** for adding, removing & replacing elements.
 * Strengthened logic with examples like **fruits, cities, heroes, mobile brands**.
 
+---
 
 ### ✅ Day 7 (02-09-2025)
 
@@ -181,6 +182,9 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Understood **parameters, arguments, and return values**.
 * Practiced **arrow functions** for cleaner syntax.
 * Solved mini function-based problems to build logic.
+
+---
+
 
 ### ✅ Day 8 (05-09-2025)
 
@@ -217,6 +221,24 @@ Every day, I will learn new topics in JavaScript and post my progress on **Linke
 * Learned inline & external event handling.  
 * Explored **event object** for details.  
 * Practiced adding/removing **event listeners**.  
+
+---
+
+### ✅ Day 10 (30-09-2025)
+
+🔗 [Day 10 Code](https://github.com/Shahbaz181/Javascript-learning/tree/main/Day%2010-Mini-Project)
+
+#### 📌 Topics Covered
+1. Built a **Tic Tac Toe Game** using HTML, CSS & JavaScript  
+2. Handled **player turns** (X & O) with JavaScript  
+3. Implemented **winning logic** (rows, columns, diagonals)  
+4. Added **reset functionality** to restart the game  
+5. Practiced **DOM manipulation & event handling** in a project  
+
+#### ✅ Summary
+* Created my **first mini-project** in JavaScript  
+* Applied events, conditions, and loops in real use case  
+* Strengthened logic-building through game development  
 
 ---  
 
